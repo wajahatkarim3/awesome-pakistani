@@ -24,7 +24,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |18|PakistanAI|https://github.com/PakistanAI| |Artificial intelligence, Machine learning
 |19|Madiha Batool|https://github.com/MaedahBatool|https://maedahbatool.com| PHP, JavaScript
 |20|Waleed Ashraf|https://github.com/WaleedAshraf|https://waleedashraf.me|JavaScript
-|21|Syeda Ayesha Tanvir|https://github.com/AyeshaTanvir/|https://pk.linkedin.com/in/syeda-ayesha-tanvir-604161136|SQAEngineer
+|21|Syeda Ayesha Tanvir|https://github.com/AyeshaTanvir/|https://pk.linkedin.com/in/syeda-ayesha-tanvir-604161136|Software Quality Assurance Engineer
 
 
 ## Contribution
